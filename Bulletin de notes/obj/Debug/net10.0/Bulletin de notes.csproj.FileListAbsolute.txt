@@ -1,0 +1,14 @@
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\bin\Debug\net10.0\Bulletin de notes.exe
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\bin\Debug\net10.0\Bulletin de notes.deps.json
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\bin\Debug\net10.0\Bulletin de notes.runtimeconfig.json
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\bin\Debug\net10.0\Bulletin de notes.dll
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\bin\Debug\net10.0\Bulletin de notes.pdb
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\obj\Debug\net10.0\Bulletin de notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\obj\Debug\net10.0\Bulletin de notes.AssemblyInfoInputs.cache
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\obj\Debug\net10.0\Bulletin de notes.AssemblyInfo.cs
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\obj\Debug\net10.0\Bulletin de notes.csproj.CoreCompileInputs.cache
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\obj\Debug\net10.0\Bulletin de notes.dll
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\obj\Debug\net10.0\refint\Bulletin de notes.dll
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\obj\Debug\net10.0\Bulletin de notes.pdb
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\obj\Debug\net10.0\Bulletin de notes.genruntimeconfig.cache
+C:\Users\Medard Bekoung\source\repos\Bulletin de notes\obj\Debug\net10.0\ref\Bulletin de notes.dll

@@ -1,0 +1,18 @@
+C:\Users\Medard Bekoung\source\repos\Gestock v3\bin\Debug\net10.0-windows\Gestock v3.exe
+C:\Users\Medard Bekoung\source\repos\Gestock v3\bin\Debug\net10.0-windows\Gestock v3.deps.json
+C:\Users\Medard Bekoung\source\repos\Gestock v3\bin\Debug\net10.0-windows\Gestock v3.runtimeconfig.json
+C:\Users\Medard Bekoung\source\repos\Gestock v3\bin\Debug\net10.0-windows\Gestock v3.dll
+C:\Users\Medard Bekoung\source\repos\Gestock v3\bin\Debug\net10.0-windows\Gestock v3.pdb
+C:\Users\Medard Bekoung\source\repos\Gestock v3\obj\Debug\net10.0-windows\Gestock_v3.Form1.resources
+C:\Users\Medard Bekoung\source\repos\Gestock v3\obj\Debug\net10.0-windows\Gestock_v3.mainScreen.resources
+C:\Users\Medard Bekoung\source\repos\Gestock v3\obj\Debug\net10.0-windows\Gestock v3.csproj.GenerateResource.cache
+C:\Users\Medard Bekoung\source\repos\Gestock v3\obj\Debug\net10.0-windows\Gestock v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Medard Bekoung\source\repos\Gestock v3\obj\Debug\net10.0-windows\Gestock v3.AssemblyInfoInputs.cache
+C:\Users\Medard Bekoung\source\repos\Gestock v3\obj\Debug\net10.0-windows\Gestock v3.AssemblyInfo.cs
+C:\Users\Medard Bekoung\source\repos\Gestock v3\obj\Debug\net10.0-windows\Gestock v3.csproj.CoreCompileInputs.cache
+C:\Users\Medard Bekoung\source\repos\Gestock v3\obj\Debug\net10.0-windows\Gestock v3.dll
+C:\Users\Medard Bekoung\source\repos\Gestock v3\obj\Debug\net10.0-windows\refint\Gestock v3.dll
+C:\Users\Medard Bekoung\source\repos\Gestock v3\obj\Debug\net10.0-windows\Gestock v3.pdb
+C:\Users\Medard Bekoung\source\repos\Gestock v3\obj\Debug\net10.0-windows\Gestock v3.genruntimeconfig.cache
+C:\Users\Medard Bekoung\source\repos\Gestock v3\obj\Debug\net10.0-windows\ref\Gestock v3.dll
+C:\Users\Medard Bekoung\source\repos\Gestock v3\obj\Debug\net10.0-windows\Gestock_v3.ProduitForm.resources
